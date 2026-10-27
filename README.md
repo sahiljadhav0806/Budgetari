@@ -1,6 +1,19 @@
 
 **Budgetari** is a feature-rich, secure personal budgeting and expense-tracking Android application built using Java and Android SDK. It helps users manage their daily finances by providing real-time expense tracking, category-based analytics, and secure cloud synchronization.
 
+## 📸 App Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ad0fda2a-9ec8-4193-91e2-c683bdb17f8e" width="260" alt="Screenshot 1" />
+  <img src="https://github.com/user-attachments/assets/2e02c777-af38-4b32-b5cc-71f9eb02a2c7" width="260" alt="Screenshot 2" />
+  <img src="https://github.com/user-attachments/assets/d445e15f-32a4-4ae7-8b22-3a73ac3a456c" width="260" alt="Screenshot 3" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/615ea83f-b5c4-4759-979e-e7ff42151efc" width="260" alt="Screenshot 4" />
+  <img src="https://github.com/user-attachments/assets/cc265351-34a2-4c06-8911-9007cf7fb8bc" width="260" alt="Screenshot 5" />
+  <img src="https://github.com/user-attachments/assets/e17df81a-c132-4def-b948-465799a98144" width="260" alt="Screenshot 6" />
+</p>
+
 ---
 
 ## ✨ Features
@@ -34,11 +47,4 @@
 * Android Studio (Latest stable version recommended)
 * Android SDK (Target/Minimum SDK compatible with your setup)
 * A Firebase account and project setup
-
-<img width="1080" height="2400" alt="Screenshot_20211116-154619_BUDGETARI" src="https://github.com/user-attachments/assets/ad0fda2a-9ec8-4193-91e2-c683bdb17f8e" />
-<img width="1080" height="2400" alt="Screenshot_20220122-105557_BUDGETARI" src="https://github.com/user-attachments/assets/2e02c777-af38-4b32-b5cc-71f9eb02a2c7" />
-<img width="1080" height="2400" alt="Screenshot_20220122-105016_BUDGETARI" src="https://github.com/user-attachments/assets/d445e15f-32a4-4ae7-8b22-3a73ac3a456c" />
-<img width="1080" height="2400" alt="Screenshot_20220122-100452_BUDGETARI" src="https://github.com/user-attachments/assets/615ea83f-b5c4-4759-979e-e7ff42151efc" />
-<img width="1080" height="2400" alt="Screenshot_20211116-154644_BUDGETARI" src="https://github.com/user-attachments/assets/cc265351-34a2-4c06-8911-9007cf7fb8bc" />
-<img width="1080" height="2400" alt="Screenshot_20211116-154626_BUDGETARI" src="https://github.com/user-attachments/assets/e17df81a-c132-4def-b948-465799a98144" />
 
